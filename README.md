@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rares</h1>
 
 <p align="center">
-  AI Engineer / Full-Stack Builder focused on practical products, automation and user-facing systems.
+  AI Engineer / Machine Learning Builder focused on practical products, automation, applied intelligent systems and Computer Vision and Reinforcement Learning.
 </p>
 
 <p align="center">
@@ -14,47 +14,45 @@
 
 ## About Me
 
-I build software at the intersection of AI, product engineering, and automation.
+I build software at the intersection of AI, machine learning, computer-human interaction and product engineering.
 
-My focus is on turning strong technical ideas into usable products: from backend systems and APIs to polished interfaces and AI-powered workflows. I care about shipping quickly, writing clean systems, and building things that are useful in the real world.
+My focus is on turning technical ideas into usable systems, from data preprocessing and model development to evaluation, automation and user-facing applications. I am especially interested in applied AI projects with clear real-world impact.
 
 ## What I Work On
 
-- AI applications and agent-based workflows
-- Full-stack web products
-- Automation tools and internal systems
-- Backend APIs and product infrastructure
+- Machine learning and AI applications
+- NLP and text processing workflows
+- Data pipelines and model evaluation
+- Practical automation and intelligent systems
 
 ## Selected Projects
 
 ### CNN for Traffic Signs Classification
 A computer vision project focused on high-accuracy traffic sign recognition and model performance comparison.  
-**Tech:** Python, CNNs, Jupyter Notebook
+**Tech:** Python, TensorFlow, NumPy, Matplotlib
 
 ### GemmaV4 and Reinforcement Learning
-A project centered on annotation workflows, dataset quality, and verification logic for real-world AI use cases.  
-**Tech:** Python, LLM workflows, Jupyter Notebook
+A project centered on annotation workflows, dataset quality and verification logic for real-world AI use cases.  
+**Tech:** Python, LLM workflows, data annotation, evaluation, Gemma, Ollama
 
-### Resume Classification
-A machine learning project focused on classification and applied AI workflows.  
-**Tech:** Python, Machine Learning, Jupyter Notebook
+## Technical Skills
 
-## Tech Stack
-
-**Languages:** Python, JavaScript, SQL  
-**Frontend:** HTML, CSS, React  
-**Backend:** FastAPI, Node.js  
-**Tools:** Git, Docker, Jupyter Notebook  
-**AI / Data:** Machine Learning, LLM workflows, pandas, NumPy
+**Programming & Data:** Python, SQL, NumPy, pandas, Matplotlib, scikit-learn, TensorFlow, Spark, R  
+**Machine Learning:** Supervised and unsupervised learning, neural networks, predictive modeling, model training and evaluation  
+**Natural Language Processing:** Text classification, NER, ABSA, TF-IDF, text vectorization, regex-based text cleaning  
+**Pipelines & Evaluation:** Data preprocessing, feature extraction, train/test splitting, label encoding, precision, recall, F1-score, benchmarking  
+**Libraries & Tools:** Hugging Face Transformers, spaCy, Git, GitHub, LaTeX, VS Code
 
 ## Currently Interested In
 
+- Applied machine learning
+- NLP systems and LLM workflows
 - AI product engineering
-- Applied LLM systems
-- Startup environments and high-ownership roles
-- Building tools that combine strong UX with real technical depth
+- Building practical tools with real-world impact
+- Human-Computer Interaction
+- Reinforcement Learning
+- Computer Vision
 
 ## Contact
 
 If you'd like to connect about roles, projects, or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rares-olteanu-26b343257/?locale=en) or [email](mailto:rares-calin.olteanu@psl.eu).
-
