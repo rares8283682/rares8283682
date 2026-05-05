@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rares</h1>
 
 <p align="center">
-  AI Engineer / Full-Stack Builder focused on practical products, automation, and user-facing systems.
+  AI Engineer / Full-Stack Builder focused on practical products, automation and user-facing systems.
 </p>
 
 <p align="center">
